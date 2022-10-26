@@ -1,2 +1,0 @@
-# projektkoty
-pierwsze coś
