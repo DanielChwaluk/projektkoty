@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+    color:white;
+}
+a:hover {
+    color: orange;
+    text-shadow: 2px 2px 4px #000000;
+}
+.accordion{
+    --bs-accordion-bg: #333435;
+    --bs-accordion-active-bg: #333435;
+    --bs-accordion-active-color: dark;
+}
+
