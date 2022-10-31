@@ -11,4 +11,6 @@ a:hover {
     --bs-accordion-active-bg: #333435;
     --bs-accordion-active-color: dark;
 }
-
+.accordion-button{
+    color: white;
+}
